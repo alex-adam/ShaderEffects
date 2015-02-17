@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>WobbleEffect.qml</file>
+        <file>GenieEffect.qml</file>
+        <file>ColorEffect.qml</file>
+        <file>Webcam.qml</file>
+    </qresource>
+</RCC>
